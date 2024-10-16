@@ -1,4 +1,4 @@
-# Spring Security Learning Project
+# Spring Security - JWT
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.4-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-blue)
